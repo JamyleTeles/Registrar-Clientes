@@ -11,7 +11,7 @@
 <h2 id="about">Sobre o projeto</h2>
 Neste projeto você encontrará uma primeira página de registro de clientes e após clicar em "Adicionar" ou "Editar" você é direcionado para mais uma página de formulário, nesta você colocará o seu cliente fictício e mandará para uma API fictícia!
 
-  Se você quer ver como ficou o projeto, clique aqui -> 
+  Se você quer ver como ficou o projeto, clique aqui -> https://jamyleteles.github.io/Registrar-Clientes/
 <br>
 
 <h2 id="dif">Dificuldades/Conquistas</h2>
@@ -23,5 +23,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [Bootstrap]([https://developer.mozilla.org/pt-BR/docs/Web/JavaScript](https://getbootstrap.com/)https://getbootstrap.com/)
+- [Bootstrap](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript](https://getbootstrap.com/)https://getbootstrap.com/)
 
