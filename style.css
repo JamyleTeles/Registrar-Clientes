@@ -1,18 +1,10 @@
-.tabela label select .seletor{
+
+label select .seletor{
     padding: 1.5%;
 }
-
-    .padding_nav{
-        margin: 1% 0;
-    }
 
 .tabela{
     padding: 1.5%;
-}
-
-footer{
-    margin: 5%;
-    grid-area: footer;
 }
 
 /* Página edit.html */
@@ -20,26 +12,24 @@ label{
     padding: 1% 0;
 }
 
-/* template grid do formulário */
-form{
-    padding: 1%;
-}
 .box{
     display: grid;
     justify-content: center;
-    grid-template-rows: max-content max-content max-content;
-    grid-gap: 5%;
-    
+    /* grid-template-rows: max-content max-content max-content max-content max-content; */
+    /* grid-gap: 5% */
 }
 
 .item{
     display: flex;
 }
 
-@media (max-width: 767px){
-    .campo-email{
-        display: none;
-    }
+.container-botao{
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1%;
+}
+
+.grid-1{
+    grid-column: 3;
 }
 
 @media (min-width: 480px){
